@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://badge.mediaplus.ma/colorful/mokarimi" />
+</p>
 # Hi 👋 I'm Mohamed Karimi
 
 Computer Science student at 42 Network.
