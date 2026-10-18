@@ -23,5 +23,5 @@ Tools:
 
 ## 📫 Contact
 
-LinkedIn:
-Email:
+LinkedIn: mohammed karimi
+Email:karimimohamed806@gmail.com
